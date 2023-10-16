@@ -29,7 +29,7 @@ background: linear-gradient(0deg, rgba(11,4,3,1) 0%, rgba(8,1,1,1) 31%, rgba(171
         flex-direction: row;
         align-items: flex-end;
         width: 100%;
-        padding: 40px;
+        padding: 120px;
     }
 
     .botoes .botao img {
@@ -50,7 +50,7 @@ background: linear-gradient(0deg, rgba(11,4,3,1) 0%, rgba(8,1,1,1) 31%, rgba(171
     }
 
     .conteudo {
-        top: -30%;
+        top: -20%;
     }
 
     .conteudo .nome-classe {
@@ -60,11 +60,11 @@ background: linear-gradient(0deg, rgba(11,4,3,1) 0%, rgba(8,1,1,1) 31%, rgba(171
     .botoes {
         flex-direction: center;
         align-items: flex-end;
-        padding: 40px;
+        padding: 55px;
         top: 0%;
     }
 
     .botoes .botao img{
-        max-width: 100%;
+        max-width: 190%;
     };
 }
